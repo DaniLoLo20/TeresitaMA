@@ -1,0 +1,4 @@
+/*Aqui se les da estilo solo a las tablas*/
+table, th, td {
+  border: 1px solid black;
+}
